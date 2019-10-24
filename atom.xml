@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hayschan.github.io</id>
     <title>Hays&apos; Blog</title>
-    <updated>2019-10-24T19:36:03.125Z</updated>
+    <updated>2019-10-24T19:46:57.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hayschan.github.io"/>
     <link rel="self" href="https://hayschan.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://hayschan.github.io/images/avatar.png</logo>
     <icon>https://hayschan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Hays&apos; Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Test Size]]></title>
+        <id>https://hayschan.github.io/post/test-size</id>
+        <link href="https://hayschan.github.io/post/test-size">
+        </link>
+        <updated>2019-10-24T19:38:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-test-size">1 Test Size</h1>
+<p>fds</p>
+<h2 id="2-test-size">2 Test Size</h2>
+]]></content>
+    </entry>
 </feed>
